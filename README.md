@@ -4,10 +4,10 @@ I'm learning Javascript and ES5. (And eventually ES6). Just a repo for all the t
 ## Resources
 I'm trying out things from [nodeschool](http://nodeschool.io/#workshoppers). Here's what I'm trying out first.  
 
-1. [javascripting](https://github.com/sethvincent/javascripting) ![completed]
+1. ![][completed] [javascripting](https://github.com/sethvincent/javascripting)
   - [Exercises Completed](Class01_javascripting/)
-2. [learnyounode](https://github.com/workshopper/learnyounode) ![inprogress]
-3. [scope-chains-closures](https://github.com/jesstelford/scope-chains-closures) ![notstarted]
+2. ![][inprogress] [learnyounode](https://github.com/workshopper/learnyounode)
+3. ![][notstarted] [scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
 
 [completed]: https://img.shields.io/badge/status-completed-brightgreen.svg
 [inprogress]: https://img.shields.io/badge/status-inprogress-orange.svg
