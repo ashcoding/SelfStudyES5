@@ -12,3 +12,7 @@ I'm trying out things from [nodeschool](http://nodeschool.io/#workshoppers). Her
 [completed]: https://img.shields.io/badge/status-completed-brightgreen.svg
 [inprogress]: https://img.shields.io/badge/status-inprogress-orange.svg
 [notstarted]: https://img.shields.io/badge/status-not%20started-red.svg
+
+Another list of resources.
+
+- [ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
