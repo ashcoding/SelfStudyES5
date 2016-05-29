@@ -4,7 +4,8 @@ I'm learning Javascript and ES5. (And eventually ES6). Just a repo for all the t
 ## Resources
 I'm trying out things from [nodeschool](http://nodeschool.io/#workshoppers). Here's what I'm trying out first.  
 
-1. [Javascripting](https://github.com/sethvincent/javascripting) ![completed][completed] 
+1. [Javascripting](https://github.com/sethvincent/javascripting) ![completed][completed]
+  - [Folder](Class01_javascripting/)
 
 
 
