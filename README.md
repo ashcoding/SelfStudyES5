@@ -6,7 +6,7 @@ I'm trying out things from [nodeschool](http://nodeschool.io/#workshoppers). Her
 
 1. [Javascripting](https://github.com/sethvincent/javascripting) ![completed][completed]
   - [Exercises Completed](Class01_javascripting/)
-
+2. Next();
 
 
 
